@@ -1,2 +1,2 @@
 # Virebase
-test trojan and virus  / Beta version / just 2
+make trojan and all type virus  / Beta version / just 2
