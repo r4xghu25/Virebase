@@ -80,7 +80,7 @@ def Maker(file , make = make):
 
     hide_tf = input("")        
     
-    if hide_tf == "true" or hide_tf == "t" or hide_tf =="True":
+    if hide_tf == "hide" or hide_tf == "Hide" or hide_tf =="h":
     
         make = make + " --windowed "
         
